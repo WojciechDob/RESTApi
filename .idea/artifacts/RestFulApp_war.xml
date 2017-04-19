@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RestFulApp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="RestFulApp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="RestFulApp:war exploded" />
+    </root>
+  </artifact>
+</component>
